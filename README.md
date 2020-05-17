@@ -5,6 +5,13 @@
 |Visual Code| Javascript | NodeJs | 
 
 ## Cara menggunakanya
+
+Download terlebih dahulu source code nya
+```
+git clone https://github.com/wellrafi/test_arkademy.git
+cd test_arkademy
+```
+
 #### Melalui NodeJs
 sebelumnya anda harus sudah menginstall NodeJs, [download nodejs]('https://nodejs.org/en/download/'). setelah NodeJs terinstall, buka terminal atau cmd dan ketik **node filename.js** untuk menjalankan scriptnya\n
 contoh: \n
